@@ -264,13 +264,17 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0e32b1000474b6e4193c7eb7ea67d147, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1779494285}
-  smoothTime: 0.1
+  player: {fileID: 0}
+  offsetX: 0
+  offsetY: 1.5
+  smoothTime: 0.15
+  minY: 0
+  maxY: 15
 --- !u!1 &543930498
 GameObject:
   m_ObjectHideFlags: 0
