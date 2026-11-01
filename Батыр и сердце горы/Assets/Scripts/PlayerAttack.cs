@@ -8,54 +8,49 @@ public class PlayerAttack : MonoBehaviour
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
 
-    void Update()
+    [Header("Спецэффект")]
+    public GameObject hitEffectPrefab;
+
+    // Внимание: метод теперь public, чтобы его мог вызвать скрипт Player
+    public void Attack()
     {
-        // Проверяем нажатие ЛЕВОЙ кнопки мыши (0 - левая, 1 - правая)
-        if (Input.GetMouseButtonDown(0))
+        // Если точка атаки не назначена - выходим
+        if (attackPoint == null) return;
+
+        // 1. Создаем эффект
+        if (hitEffectPrefab != null)
         {
-            Attack();
-        }
-    }
+            // Создаем эффект в позиции точки атаки
+            GameObject effect = Instantiate(hitEffectPrefab, attackPoint.position, attackPoint.rotation);
 
-    void Attack()
-    {
-        // Если точка атаки не задана, выводим ошибку в консоль и останавливаемся
-        if (attackPoint == null)
-        {
-            Debug.LogError("Ошибка: Точка атаки (Attack Point) не назначена в инспекторе!");
-            return;
-        }
-
-        // Ищем все коллайдеры на слое Enemy в радиусе атаки
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-
-        bool hitSomething = false; // Проверка, попали ли мы хоть во что-то
-
-        // Перебираем всех врагов, в которых попали
-        foreach (Collider2D enemy in hitEnemies)
-        {
-            // Ищем на объекте скрипт Health
-            Health enemyHealth = enemy.GetComponent<Health>();
-
-            if (enemyHealth != null)
+            // 2. Проверяем, куда смотрит персонаж (через масштаб X)
+            // Если localScale.x меньше 0, значит персонаж повернут влево
+            if (transform.localScale.x < 0)
             {
-                enemyHealth.TakeDamage(attackDamage);
-                hitSomething = true;
+                Vector3 effectScale = effect.transform.localScale;
+                // Разворачиваем эффект по оси X (зеркально)
+                effectScale.x = -Mathf.Abs(effectScale.x);
+                effect.transform.localScale = effectScale;
             }
         }
 
-        // Если удар не попал ни в кого, пишем в консоль (полезно для отладки)
-        if (!hitSomething)
+        // 3. Наносим урон врагам в радиусе
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+        foreach (Collider2D enemy in hitEnemies)
         {
-            Debug.Log("Удар в пустоту (не попал в манекен).");
+            Health enemyHealth = enemy.GetComponent<Health>();
+            if (enemyHealth != null)
+            {
+                enemyHealth.TakeDamage(attackDamage);
+            }
         }
     }
 
-    // Этот метод рисует красный круг в окне Scene, чтобы вы видели радиус атаки
+    // Рисует красный круг в редакторе (для удобства настройки радиуса)
     void OnDrawGizmosSelected()
     {
         if (attackPoint == null) return;
-
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }

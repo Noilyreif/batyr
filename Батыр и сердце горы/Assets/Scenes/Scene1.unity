@@ -2161,7 +2161,7 @@ Transform:
   m_GameObject: {fileID: 1779494285}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.67, y: -2.4704, z: 0}
+  m_LocalPosition: {x: -21.01, y: -2.4704, z: 0}
   m_LocalScale: {x: 6.8207316, y: 6.1848426, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2261,10 +2261,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackDamage: 20
   attackPoint: {fileID: 1941900348}
-  attackRange: 0.5
+  attackRange: 1
   enemyLayers:
     serializedVersion: 2
     m_Bits: 512
+  hitEffectPrefab: {fileID: 2157940469294295914, guid: 9fc27fe3e94ab6645869a69262b40e86, type: 3}
 --- !u!1 &1784448883
 GameObject:
   m_ObjectHideFlags: 0
@@ -2368,8 +2369,8 @@ Transform:
   m_GameObject: {fileID: 1941900347}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.066, y: -0.037, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.051, y: -0.032, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1779494288}
