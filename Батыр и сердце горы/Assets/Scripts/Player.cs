@@ -29,6 +29,19 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        // --- ПРОВЕРКА НА ПАУЗУ ---
+        if (PauseManager.isPaused)
+        {
+            // Останавливаем движение по горизонтали
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+
+            // Переключаем на анимацию покоя, чтобы персонаж не застывал в ударе
+            if (animator != null) animator.Play("Player_Idle");
+
+            return; // Выходим из Update, не обрабатывая ввод
+        }
+        // -------------------------
+
         if (attackTimer > 0)
         {
             attackTimer -= Time.deltaTime;
