@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: be3b19ae2854dec4e87a68dc724e88a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8753857327799778676
+    second: Create_a_cute_chibi_pixe-Idle_0
+  - first:
+      213: 4467926098775884359
+    second: Create_a_cute_chibi_pixe-Idle_1
+  - first:
+      213: 5780761210995433103
+    second: Create_a_cute_chibi_pixe-Idle_2
+  - first:
+      213: -2784347853185986069
+    second: Create_a_cute_chibi_pixe-Idle_3
+  - first:
+      213: 5153271730769676539
+    second: Create_a_cute_chibi_pixe-Idle_4
+  - first:
+      213: 7267357743222519585
+    second: Create_a_cute_chibi_pixe-Idle_5
+  - first:
+      213: -311989553725818129
+    second: Create_a_cute_chibi_pixe-Idle_6
+  - first:
+      213: 2034133869179504170
+    second: Create_a_cute_chibi_pixe-Idle_7
+  - first:
+      213: 8721888698438020895
+    second: Create_a_cute_chibi_pixe-Idle_8
+  - first:
+      213: -8360780655141851858
+    second: Create_a_cute_chibi_pixe-Idle_9
+  - first:
+      213: -7626477941461559295
+    second: Create_a_cute_chibi_pixe-Idle_10
+  - first:
+      213: 288566415639146862
+    second: Create_a_cute_chibi_pixe-Idle_11
+  - first:
+      213: 7378132176192995796
+    second: Create_a_cute_chibi_pixe-Idle_12
+  - first:
+      213: 3097143075808605978
+    second: Create_a_cute_chibi_pixe-Idle_13
+  - first:
+      213: -9138781510776075975
+    second: Create_a_cute_chibi_pixe-Idle_14
+  - first:
+      213: -6842382160056303561
+    second: Create_a_cute_chibi_pixe-Idle_15
+  - first:
+      213: 5295449778589462928
+    second: Create_a_cute_chibi_pixe-Idle_16
+  - first:
+      213: -321891275891780598
+    second: Create_a_cute_chibi_pixe-Idle_17
+  - first:
+      213: 6629638250659959449
+    second: Create_a_cute_chibi_pixe-Idle_18
+  - first:
+      213: 4214954499457082091
+    second: Create_a_cute_chibi_pixe-Idle_19
+  - first:
+      213: -7342881270706379597
+    second: Create_a_cute_chibi_pixe-Idle_20
+  - first:
+      213: 8383036538756827929
+    second: Create_a_cute_chibi_pixe-Idle_21
+  - first:
+      213: 3875963584271833180
+    second: Create_a_cute_chibi_pixe-Idle_22
+  - first:
+      213: 4820713240664747273
+    second: Create_a_cute_chibi_pixe-Idle_23
+  - first:
+      213: -1883882340874724743
+    second: Create_a_cute_chibi_pixe-Idle_24
+  - first:
+      213: 7801652668860429546
+    second: Create_a_cute_chibi_pixe-Idle_25
+  - first:
+      213: 6510526903521064452
+    second: Create_a_cute_chibi_pixe-Idle_26
+  - first:
+      213: 7429633508538194252
+    second: Create_a_cute_chibi_pixe-Idle_27
+  - first:
+      213: 8017234346963355557
+    second: Create_a_cute_chibi_pixe-Idle_28
+  - first:
+      213: 1866042086586679538
+    second: Create_a_cute_chibi_pixe-Idle_29
+  - first:
+      213: 5942119667653226364
+    second: Create_a_cute_chibi_pixe-Idle_30
+  - first:
+      213: -7975950295278800192
+    second: Create_a_cute_chibi_pixe-Idle_31
+  - first:
+      213: -4638706955343479997
+    second: Create_a_cute_chibi_pixe-Idle_32
+  - first:
+      213: -1177384073528279820
+    second: Create_a_cute_chibi_pixe-Idle_33
+  - first:
+      213: -4517331936929701237
+    second: Create_a_cute_chibi_pixe-Idle_34
+  - first:
+      213: -5383054258177049214
+    second: Create_a_cute_chibi_pixe-Idle_35
+  - first:
+      213: -342521821323830505
+    second: Create_a_cute_chibi_pixe-Idle_36
+  - first:
+      213: -6322745437713505764
+    second: Create_a_cute_chibi_pixe-Idle_37
+  - first:
+      213: -4812360843423159155
+    second: Create_a_cute_chibi_pixe-Idle_38
+  - first:
+      213: 8522135505308222599
+    second: Create_a_cute_chibi_pixe-Idle_39
+  - first:
+      213: 1678774423462598289
+    second: Create_a_cute_chibi_pixe-Idle_40
+  - first:
+      213: -6087707984636278667
+    second: Create_a_cute_chibi_pixe-Idle_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824b0ae32d048680800000000000000
+      internalID: -8753857327799778676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742cb306d13410e30800000000000000
+      internalID: 4467926098775884359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e5db091b3693050800000000000000
+      internalID: 5780761210995433103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 200
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15abf21620c59d0800000000000000
+      internalID: -2784347853185986069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 200
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c69ff559148740800000000000000
+      internalID: 5153271730769676539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 200
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12776740d57dad460800000000000000
+      internalID: 7267357743222519585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 200
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3a8467279babf0800000000000000
+      internalID: -311989553725818129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 200
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26090a0af1ba3c10800000000000000
+      internalID: 2034133869179504170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f64e88f8f5a0970800000000000000
+      internalID: 8721888698438020895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2def4d9a4a88fb80800000000000000
+      internalID: -8360780655141851858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d4d318be492690800000000000000
+      internalID: -7626477941461559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 152
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61774a40a1310400800000000000000
+      internalID: 288566415639146862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 152
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10ddb8f14646660800000000000000
+      internalID: 7378132176192995796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f124d7334bfa20800000000000000
+      internalID: 3097143075808605978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 152
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c842a2a68c2180800000000000000
+      internalID: -9138781510776075975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730cf5c8da9fa01a0800000000000000
+      internalID: -6842382160056303561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091feb264873d7940800000000000000
+      internalID: 5295449778589462928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045c2c0799688bf0800000000000000
+      internalID: -321891275891780598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992dde71dd4310c50800000000000000
+      internalID: 6629638250659959449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 104
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e29419c68e7a30800000000000000
+      internalID: 4214954499457082091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b46da77368d81a90800000000000000
+      internalID: -7342881270706379597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b88b71157865470800000000000000
+      internalID: 8383036538756827929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c585fda18503ac530800000000000000
+      internalID: 3875963584271833180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 104
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d28d1b62d96e240800000000000000
+      internalID: 4820713240664747273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad7810efa1bd5e0800000000000000
+      internalID: -1883882340874724743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4776474c9054c60800000000000000
+      internalID: 7801652668860429546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063ff879b90a5a50800000000000000
+      internalID: 6510526903521064452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 56
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4912c7ef4c5b1760800000000000000
+      internalID: 7429633508538194252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 56
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cfc35920f24f60800000000000000
+      internalID: 8017234346963355557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 56
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08dea146385e910800000000000000
+      internalID: 1866042086586679538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 56
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2553ea56a67250800000000000000
+      internalID: 5942119667653226364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 56
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23cbff67bbf4190800000000000000
+      internalID: -7975950295278800192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 56
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3e9dd99000afb0800000000000000
+      internalID: -4638706955343479997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcf4255c6719afe0800000000000000
+      internalID: -1177384073528279820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8227c689863f41c0800000000000000
+      internalID: -4517331936929701237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df3be3cac8b45b0800000000000000
+      internalID: -5383054258177049214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5c20e73e1f3bf0800000000000000
+      internalID: -342521821323830505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126dd316881148a0800000000000000
+      internalID: -6322745437713505764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c63c45f4f073db0800000000000000
+      internalID: -4812360843423159155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78404a10715b44670800000000000000
+      internalID: 8522135505308222599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196df7091743c4710800000000000000
+      internalID: 1678774423462598289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Create_a_cute_chibi_pixe-Idle_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578027f87dd148ba0800000000000000
+      internalID: -6087707984636278667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Create_a_cute_chibi_pixe-Idle_0: -8753857327799778676
+      Create_a_cute_chibi_pixe-Idle_1: 4467926098775884359
+      Create_a_cute_chibi_pixe-Idle_10: -7626477941461559295
+      Create_a_cute_chibi_pixe-Idle_11: 288566415639146862
+      Create_a_cute_chibi_pixe-Idle_12: 7378132176192995796
+      Create_a_cute_chibi_pixe-Idle_13: 3097143075808605978
+      Create_a_cute_chibi_pixe-Idle_14: -9138781510776075975
+      Create_a_cute_chibi_pixe-Idle_15: -6842382160056303561
+      Create_a_cute_chibi_pixe-Idle_16: 5295449778589462928
+      Create_a_cute_chibi_pixe-Idle_17: -321891275891780598
+      Create_a_cute_chibi_pixe-Idle_18: 6629638250659959449
+      Create_a_cute_chibi_pixe-Idle_19: 4214954499457082091
+      Create_a_cute_chibi_pixe-Idle_2: 5780761210995433103
+      Create_a_cute_chibi_pixe-Idle_20: -7342881270706379597
+      Create_a_cute_chibi_pixe-Idle_21: 8383036538756827929
+      Create_a_cute_chibi_pixe-Idle_22: 3875963584271833180
+      Create_a_cute_chibi_pixe-Idle_23: 4820713240664747273
+      Create_a_cute_chibi_pixe-Idle_24: -1883882340874724743
+      Create_a_cute_chibi_pixe-Idle_25: 7801652668860429546
+      Create_a_cute_chibi_pixe-Idle_26: 6510526903521064452
+      Create_a_cute_chibi_pixe-Idle_27: 7429633508538194252
+      Create_a_cute_chibi_pixe-Idle_28: 8017234346963355557
+      Create_a_cute_chibi_pixe-Idle_29: 1866042086586679538
+      Create_a_cute_chibi_pixe-Idle_3: -2784347853185986069
+      Create_a_cute_chibi_pixe-Idle_30: 5942119667653226364
+      Create_a_cute_chibi_pixe-Idle_31: -7975950295278800192
+      Create_a_cute_chibi_pixe-Idle_32: -4638706955343479997
+      Create_a_cute_chibi_pixe-Idle_33: -1177384073528279820
+      Create_a_cute_chibi_pixe-Idle_34: -4517331936929701237
+      Create_a_cute_chibi_pixe-Idle_35: -5383054258177049214
+      Create_a_cute_chibi_pixe-Idle_36: -342521821323830505
+      Create_a_cute_chibi_pixe-Idle_37: -6322745437713505764
+      Create_a_cute_chibi_pixe-Idle_38: -4812360843423159155
+      Create_a_cute_chibi_pixe-Idle_39: 8522135505308222599
+      Create_a_cute_chibi_pixe-Idle_4: 5153271730769676539
+      Create_a_cute_chibi_pixe-Idle_40: 1678774423462598289
+      Create_a_cute_chibi_pixe-Idle_41: -6087707984636278667
+      Create_a_cute_chibi_pixe-Idle_5: 7267357743222519585
+      Create_a_cute_chibi_pixe-Idle_6: -311989553725818129
+      Create_a_cute_chibi_pixe-Idle_7: 2034133869179504170
+      Create_a_cute_chibi_pixe-Idle_8: 8721888698438020895
+      Create_a_cute_chibi_pixe-Idle_9: -8360780655141851858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
