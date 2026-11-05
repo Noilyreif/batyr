@@ -1009,7 +1009,6 @@ MonoBehaviour:
   cutscenePanel: {fileID: 962613625}
   player: {fileID: 1779494285}
   textDuration: 40
-  backgroundMusic: {fileID: 0}
 --- !u!1 &367177932
 GameObject:
   m_ObjectHideFlags: 0
@@ -4594,7 +4593,7 @@ GameObject:
   - component: {fileID: 1863290689}
   - component: {fileID: 1863290688}
   m_Layer: 0
-  m_Name: Create_a_cute_chibi_pixe-Idle_7
+  m_Name: NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
